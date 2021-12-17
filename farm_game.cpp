@@ -77,7 +77,7 @@ void Poultry::eatFood(float food)
 
 }
 
-// Complete the function
+
 // money = (Chickens'Num  *  Chickens'Price )
 //         + (Rabbits'Num  *  Rabbits'Price )
 //         + (Pigs'Num  *  Pigs'Price ),
